@@ -1,0 +1,6 @@
+graph1.txt
+graph2.txt
+KSA.txt
+spain.txt
+italy.txt
+egypt.txt
